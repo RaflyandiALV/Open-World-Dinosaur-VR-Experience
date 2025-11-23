@@ -19,7 +19,7 @@
 
 | Live Gameplay Demo (GIF) |
 | :---: |
-| ![Live Gameplay Demo](demo_assets/dino-demo.gif) |
+| ![Live Gameplay Demo](demo_assets/lv_0_20251123220127-1.gif) |
 | *A short clip demonstrating dinosaur AI pathfinding and player interaction.* |
 
 *(**Aksi untuk Anda:** Buatlah folder `demo_assets` di repository Anda, rekam layar Anda memainkan game ini, simpan sebagai file GIF bernama `dino-demo.gif`, dan unggah ke folder tersebut agar dapat muncul di sini.)*
