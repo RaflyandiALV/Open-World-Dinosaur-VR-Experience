@@ -20,9 +20,9 @@
 | Live Gameplay Demo (GIF) |
 | :---: |
 | ![Live Gameplay Demo](demo_assets/lv_0_20251123220127-1.gif) |
-| *A short clip demonstrating dinosaur AI pathfinding and player interaction.* |
+| *A short clip demonstrating dinosaur pathfinding* |
 
-*(**Aksi untuk Anda:** Buatlah folder `demo_assets` di repository Anda, rekam layar Anda memainkan game ini, simpan sebagai file GIF bernama `dino-demo.gif`, dan unggah ke folder tersebut agar dapat muncul di sini.)*
+
 
 ---
 
@@ -36,7 +36,7 @@ The core of this project lies in the custom C# scripts created to bring the worl
 
 * **`AnimatorControl.cs`**:
     * Manages the dinosaur's Animation Controller.
-    * Transitions between animation states (e.g., `isWalking`, `isRunning`, `isIdle`, `isAttacking`) based on the AI's current state, speed, and proximity to the player.
+    * Transitions between animation states (e.g., `isWalking`, `isRunning`, `isIdle`, `isAttacking`) based on the current state, speed, and proximity to the player.
 
 * **`HandAnimationController.cs`**:
     * Manages the player's virtual hand animations.
